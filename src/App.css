@@ -21,7 +21,7 @@ input {
 .App {
   width: 100%;
   min-height: 100vh;
-  background-color: #1c2c4c;
+  background-color: #222;
   color: #4c768d;
   padding-top: 60px;
 }
@@ -32,8 +32,8 @@ input {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #4c768d;
-  color: #242443;
+  background-color: rgb(166, 48, 48);
+  color: black;
   height: 60px;
   position: fixed;
   left: 0;
